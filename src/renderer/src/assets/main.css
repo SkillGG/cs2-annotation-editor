@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  @apply bg-slate-500 overflow-hidden rounded-lg h-[100vh];
+  border: 1px solid white;
+}
