@@ -1,10 +1,6 @@
-# my-app
+# CS2 Annotation Editor
 
-An Electron application with React and TypeScript
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+A CS2 annotation editor so that you don't need to dive in the files to change colours, names and positions of the annotations.
 
 ## Project Setup
 
